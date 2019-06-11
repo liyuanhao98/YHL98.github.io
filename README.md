@@ -1,3 +1,2 @@
-# SSM-Framework
-简单的介绍Mybatis。
-可学习到关于使用Mybatis框架对Mysql进行增删改查。
+# Java-ApplyForAJob
+从基础、算法题目，项目，框架等方面学习介绍Java。
